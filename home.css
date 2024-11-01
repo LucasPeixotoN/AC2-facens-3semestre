@@ -1,0 +1,19 @@
+.carousel-caption {
+    background-color: rgba(6, 71, 250, 0.5); /* Fundo escuro translúcido para o texto */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .btn-custom {
+    background-color: #ff5733;
+    border: none;
+  }
+  
+  .btn-custom:hover {
+    background-color: #c4421e;
+  }
+  
+  .content-section {
+    padding: 40px 0;
+  }
+  
